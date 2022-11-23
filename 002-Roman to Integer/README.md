@@ -1,3 +1,4 @@
+<h3> Problem </h3>
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 <pre>
@@ -23,9 +24,9 @@ Given a roman numeral, convert it to an integer.
     Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 </pre>
 
-<pre>
-<code>
-    def romanToInt(self, s: str) -> int:
+<h3> Problem </h3>
+
+<pre><code> def romanToInt(self, s: str) -> int:
         sum = 0
         my_dict = {
             "I" : 1,
@@ -46,6 +47,4 @@ Given a roman numeral, convert it to an integer.
         for i in s:
             sum += my_dict[i]
             
-        return sum
-</code>
-</pre>
+        return sum </code> </pre>
