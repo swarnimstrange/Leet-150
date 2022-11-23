@@ -13,12 +13,10 @@ You can return the answer in any order.
 
 <h3> Code </h3>
 
-<pre>
-<code>
+<pre><code>
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
             for j in range(i):
                 if nums[i]+nums[j] == target:
                     return j,i
-</code>
-</pre>
+</code></pre>
