@@ -24,7 +24,7 @@ Given a roman numeral, convert it to an integer.
     Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 </pre>
 
-<h3> Problem </h3>
+<h3> Code in Python </h3>
 
 <pre><code> def romanToInt(self, s: str) -> int:
         sum = 0
