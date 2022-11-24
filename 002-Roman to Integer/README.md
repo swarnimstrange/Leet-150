@@ -18,18 +18,18 @@ Roman numerals are represented by seven different symbols: I, V, X, L, C, D and 
 
 Given a roman numeral, convert it to an integer.
 
-<h3> Algorithm </h3>
-<pre>
-- Step 1: make a dictionary of charater values
-- Step 2: replace "less" values with "new ones"
-- Step 3: loop through each char in string and get the value from dictionary
-- Step 4: add all the values
-</pre>
-
 <pre>
     Input: s = "MCMXCIV"
     Output: 1994
     Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
+</pre>
+
+<h3> Algorithm </h3>
+<pre>
+Step 1: make a dictionary of charater values
+Step 2: replace "less" values with "new ones"
+Step 3: loop through each char in string and get the value from dictionary
+Step 4: add all the values
 </pre>
 
 <h3> Code in Python </h3>
