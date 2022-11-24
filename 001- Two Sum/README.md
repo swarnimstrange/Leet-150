@@ -11,6 +11,9 @@ You can return the answer in any order.
     Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 </pre>
 
+<h3> Algorithm </h3>
+- make an embedded loop and check if any of the sum is equal to target if it is return the indexes of elements
+
 <h3> Code in Python</h3>
 
 <pre><code> def twoSum(self, nums: List[int], target: int) -> List[int]:
