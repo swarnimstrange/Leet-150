@@ -12,7 +12,7 @@ You can return the answer in any order.
 </pre>
 
 <h3> Algorithm </h3>
-*make an embedded loop and check if any of the sum is equal to target if it is return the indexes of elements
+* make an embedded loop and check if any of the sum is equal to target if it is return the indexes of elements
 
 <h3> Code in Python</h3>
 
