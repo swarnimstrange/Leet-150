@@ -1,6 +1,7 @@
 <h3> Problem </h3>
 Given the root of a binary tree, return the inorder traversal of its nodes' values.
-</br>
+
+<p>&nbsp;</p>
 
 <img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/inorder_1.jpg">
 
