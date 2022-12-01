@@ -12,8 +12,8 @@ If there is no common prefix, return an empty string "".
 <pre>
 Step 1: initialize empty str variable "result"
 Step 2: loop through shortest string length 
-Step 3: loop through each stringa in list and ompare their values with the shortest one
-Step 4: if loop reaches the length of shortest string or the values are'nt equal anymore then return result
+Step 3: loop through each strings in list and compare their values with the shortest one
+Step 4: if loop reaches the length of shortest string or the values aren't equal anymore then return result
 Step 5: if the chars are equal just add the char to "result"
 Step 6: return result at end 
 </pre>
