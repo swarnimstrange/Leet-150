@@ -10,7 +10,7 @@ The majority element is the element that appears more than ⌊n / 2⌋ times. Yo
 
 <h3> Algorithm </h3>
 <pre>
-Step 1: Take count every element in list
+Step 1: Take count of every element in list
 Step 2: Find the maximum count of a element in list
 Step 3: check wheather it more than len(nums)/2
 Step 4: if it is return the index
