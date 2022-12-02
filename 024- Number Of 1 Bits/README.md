@@ -10,8 +10,8 @@ Write a function that takes an unsigned integer and returns the number of '1' bi
 <h3> Algorithm </h3>
 <pre>
 Step 1: first we check if the right most element is 1 or 0, if it is one we increment a counter
-Step 5: then we shift n by 1 to right, and perform the previous action again to check 1 or 0
-Step 6: run this loop for 32 times and we'll get our answer
+Step 2: then we shift n by 1 to right, and perform the previous action again to check 1 or 0
+Step 3: run this loop for 32 times and we'll get our answer
 </pre>
 
 <h3> Code in Python </h3>
