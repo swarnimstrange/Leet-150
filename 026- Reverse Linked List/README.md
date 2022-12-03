@@ -2,7 +2,7 @@
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 <pre>
-    <img alt="" src="https://assets.leetcode.com/uploads/2021/03/05/160_example_1_1.png">
+    <img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev1ex1.jpg">
     Input: head = [1,2,3,4,5]
     Output: [5,4,3,2,1]
 </pre>
