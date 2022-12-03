@@ -22,7 +22,8 @@ Step 4: As we reach the end of the list we'll get our max profit that we need to
 
 <h3> Code in Python </h3>
 
-<pre><code>  left=0
+<pre><code>  def maxProfit(self, prices: List[int]) -> int:
+        left=0
         right = 1
         maximum = 0
         while right < len(prices):
