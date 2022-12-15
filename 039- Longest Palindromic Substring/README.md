@@ -14,7 +14,7 @@ Step 2: Run a loop and find the mid element ( starting from 1st element )
 Step 3: Then check for its before and after elements, if both are same update both variable.
 Step 4: Keep running the loop till we are getting equal on both side.
 Step 5: Compare the maxLen with current window len and update maxLen accordingly.
-Step 6: For odd take botg left and right same, for even take both left and right adjacent.
+Step 6: For odd take both left and right same, for even take both left and right adjacent.
 </pre>
 
 <h3> Code in Python </h3>
